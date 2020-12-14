@@ -1,0 +1,338 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "xYHJvpdd0oVGSbPwYfXN7AlVM+I=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/EKT/core/types",
+			"path": "github.com/EducationEKT/EKT/core/types",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "h50bXSHo4+YhBxjODvteOIBVx/A=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/EKT/crypto",
+			"path": "github.com/EducationEKT/EKT/crypto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "UNhQIOm3ZkQYhRhTi6reYeeSQhg=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/EKT/util",
+			"path": "github.com/EducationEKT/EKT/util",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "7/P4hUlL2VsmFlnZM/wUVcwXaFs=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_err",
+			"path": "github.com/EducationEKT/xserver/x_err",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "TXrgx3kUhNXeH1kwmu/kOJYSLMY=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_http",
+			"path": "github.com/EducationEKT/xserver/x_http",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "8L2ZiGCt71t3Glfi2uVzYGREK38=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_http/x_context",
+			"path": "github.com/EducationEKT/xserver/x_http/x_context",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "fFW0Xbn8A733PJ8UT7e0D6r4a78=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_http/x_parser",
+			"path": "github.com/EducationEKT/xserver/x_http/x_parser",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "KJRmpYD0z0O+MHi2imAygWVI6HQ=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_http/x_processer",
+			"path": "github.com/EducationEKT/xserver/x_http/x_processer",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "qr2xG9GmAJCBtheHuD5hJ/UoA5I=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_http/x_req",
+			"path": "github.com/EducationEKT/xserver/x_http/x_req",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "6HhsuupvLJQSaA+kP2oVBd0bIcY=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_http/x_resp",
+			"path": "github.com/EducationEKT/xserver/x_http/x_resp",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "9G8GWMi6KC8adA665wiK/eTcsTY=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_http/x_router",
+			"path": "github.com/EducationEKT/xserver/x_http/x_router",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "cN4F+DZHxJ+ekcORRPolKX5maBA=",
+			"path": "github.com/EducationEKT/xserver/x_utils/x_random",
+			"revision": "118a233e6fccfbae46e057886a0a0021eef2caaf",
+			"revisionTime": "2019-03-01T10:59:13Z"
+		},
+		{
+			"checksumSHA1": "3weN8aP+ylGevSvwdm8ozNWN8+s=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_utils/x_time",
+			"path": "github.com/EducationEKT/xserver/x_utils/x_time",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "/VotqDh6FDJ8QqgEYuQidrMb8Do=",
+			"origin": "github.com/EducationEKT/vendor/github.com/EducationEKT/xserver/x_utils/x_type",
+			"path": "github.com/EducationEKT/xserver/x_utils/x_type",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "FmH+tId9Y4Bz2GphqzVaiFoaGgg=",
+			"origin": "github.com/EducationEKT/vendor/github.com/btcsuite/btcd/btcec",
+			"path": "github.com/btcsuite/btcd/btcec",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "/hO7lY99VYmQb9av8DXpVIWhcKs=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/common",
+			"path": "github.com/ethereum/go-ethereum/common",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "tMtGtURWx29lWZYsLtLOQaPvGqs=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/common/hexutil",
+			"path": "github.com/ethereum/go-ethereum/common/hexutil",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Hd1Y5DkzYULQzJlSgYv2w5SiEAo=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/common/math",
+			"path": "github.com/ethereum/go-ethereum/common/math",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "KGwz8XA1acIZLO/731eB1BVrKa4=",
+			"path": "github.com/ethereum/go-ethereum/common/prque",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "xdiD6Wi0rvtT/ZQhPRzwytZBYWU=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/core/types",
+			"path": "github.com/ethereum/go-ethereum/core/types",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "rofYNlEqnMen5Lg1N2+VcihuaIU=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/crypto",
+			"path": "github.com/ethereum/go-ethereum/crypto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "VsqOiLFDRSDa67wPeqlxKJmE0XE=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/crypto/secp256k1",
+			"path": "github.com/ethereum/go-ethereum/crypto/secp256k1",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "pQzUVRi0z/3Z4FpRyExSg1ROLSA=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/crypto/sha3",
+			"path": "github.com/ethereum/go-ethereum/crypto/sha3",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jITANRtY5DXUxrNCN8qDxemSa6g=",
+			"path": "github.com/ethereum/go-ethereum/ethdb",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "jYu7qwMf5Hc47JdZFx9aZPg9x3A=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/log",
+			"path": "github.com/ethereum/go-ethereum/log",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "cZ1/6HHTvBk16OYeJDk/SBH5Fxo=",
+			"path": "github.com/ethereum/go-ethereum/metrics",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "BEDKIB4orUWLhVOHXDcSFeQwyTQ=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/params",
+			"path": "github.com/ethereum/go-ethereum/params",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Doemb0pCb5TGHWrVzVBan7hgu6I=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/rlp",
+			"path": "github.com/ethereum/go-ethereum/rlp",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "QAWWTf2lx3ScHLK2ktNPGZIHL9Y=",
+			"origin": "github.com/EducationEKT/vendor/github.com/ethereum/go-ethereum/trie",
+			"path": "github.com/ethereum/go-ethereum/trie",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "yg01DVQJjQgMeXf9C7Fpl2Yo5+Y=",
+			"origin": "github.com/EducationEKT/vendor/github.com/go-sql-driver/mysql",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "H8wo+NR5z+VRl0wqPYpVQfC06ks=",
+			"origin": "github.com/EducationEKT/vendor/github.com/go-stack/stack",
+			"path": "github.com/go-stack/stack",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "MszE/qde90deG4qW3zmZhD4JSxQ=",
+			"path": "github.com/go-zhouxun/ethclient",
+			"revision": "66696fae1fb7cec326ec2388f376e5ea14c89d8e",
+			"revisionTime": "2019-05-13T09:09:02Z"
+		},
+		{
+			"checksumSHA1": "l9Bl/W3veNORgcjq67LPe5OV2vw=",
+			"path": "github.com/go-zhouxun/ethclient/types",
+			"revision": "66696fae1fb7cec326ec2388f376e5ea14c89d8e",
+			"revisionTime": "2019-05-13T09:09:02Z"
+		},
+		{
+			"checksumSHA1": "7jfzNWopk6mxSu4UIzPUGVl39Js=",
+			"path": "github.com/go-zhouxun/xlog",
+			"revision": "1b9fb436ba7f12d452cc4e0a77c57d92cb9f6ca5",
+			"revisionTime": "2019-05-13T08:54:33Z"
+		},
+		{
+			"checksumSHA1": "D9gES0v1aZqIQAy/VcoOJRmg1Jk=",
+			"path": "github.com/go-zhouxun/xmysql",
+			"revision": "d1278be33655d331b47c617dcddf4fd759c578b1",
+			"revisionTime": "2019-05-13T08:59:34Z"
+		},
+		{
+			"checksumSHA1": "xJQ2Zh1Hj5dkwAQ5++ToZ2eiIDk=",
+			"path": "github.com/go-zhouxun/xutil/hexutil",
+			"revision": "5888007f26ed414b4ae3a47dde5c181f86b5f88c",
+			"revisionTime": "2019-05-13T08:56:52Z"
+		},
+		{
+			"checksumSHA1": "tKPLKVOCuLwdymBOuiAEKVfiVXs=",
+			"path": "github.com/go-zhouxun/xutil/xhttp",
+			"revision": "5888007f26ed414b4ae3a47dde5c181f86b5f88c",
+			"revisionTime": "2019-05-13T08:56:52Z"
+		},
+		{
+			"checksumSHA1": "VhjRJNCMNBYCPUQTSK6tyjYOITw=",
+			"path": "github.com/go-zhouxun/xutil/xtime",
+			"revision": "5888007f26ed414b4ae3a47dde5c181f86b5f88c",
+			"revisionTime": "2019-05-13T08:56:52Z"
+		},
+		{
+			"checksumSHA1": "p/8vSviYF91gFflhrt5vkyksroo=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/golang/snappy",
+			"path": "github.com/golang/snappy",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "LmajbO3+qtbE7JA0MQ29PXbmKNM=",
+			"origin": "github.com/EducationEKT/vendor/github.com/rcrowley/go-metrics",
+			"path": "github.com/rcrowley/go-metrics",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "k6zbR5hiI10hkWtiK91rIY5s5/E=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb",
+			"path": "github.com/syndtr/goleveldb/leveldb",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "EKIow7XkgNdWvR/982ffIZxKG8Y=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/cache",
+			"path": "github.com/syndtr/goleveldb/leveldb/cache",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "5KPgnvCPlR0ysDAqo6jApzRQ3tw=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/comparer",
+			"path": "github.com/syndtr/goleveldb/leveldb/comparer",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "1DRAxdlWzS4U0xKN/yQ/fdNN7f0=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/errors",
+			"path": "github.com/syndtr/goleveldb/leveldb/errors",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "eqKeD6DS7eNCtxVYZEHHRKkyZrw=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/filter",
+			"path": "github.com/syndtr/goleveldb/leveldb/filter",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "weSsccMav4BCerDpSLzh3mMxAYo=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/iterator",
+			"path": "github.com/syndtr/goleveldb/leveldb/iterator",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "gJY7bRpELtO0PJpZXgPQ2BYFJ88=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/journal",
+			"path": "github.com/syndtr/goleveldb/leveldb/journal",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "MtYY1b2234y/MlS+djL8tXVAcQs=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/memdb",
+			"path": "github.com/syndtr/goleveldb/leveldb/memdb",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "UmQeotV+m8/FduKEfLOhjdp18rs=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/opt",
+			"path": "github.com/syndtr/goleveldb/leveldb/opt",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "ZnyuciM+R19NG8L5YS3TIJdo1e8=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/storage",
+			"path": "github.com/syndtr/goleveldb/leveldb/storage",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "gWFPMz8OQeul0t54RM66yMTX49g=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/table",
+			"path": "github.com/syndtr/goleveldb/leveldb/table",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "V/Dh7NV0/fy/5jX1KaAjmGcNbzI=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/util",
+			"path": "github.com/syndtr/goleveldb/leveldb/util",
+			"revision": "60cdc482cfdc6b826576ab8acc84be90cda9ce1f",
+			"revisionTime": "2019-01-02T03:37:12Z"
+		},
+		{
+			"checksumSHA1": "DQXNV0EivoHm4q+bkdahYXrjjfE=",
+			"origin": "github.com/EducationEKT/vendor/gopkg.in/karalabe/cookiejar.v2/collections/prque",
+			"path": "gopkg.in/karalabe/cookiejar.v2/collections/prque",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/hwhc/hc"
+}

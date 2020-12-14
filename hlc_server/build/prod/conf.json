@@ -1,0 +1,29 @@
+{
+  "env": "prod",
+  "port": 80,
+  "log": "./hc.log",
+  "geth": "http://47.244.33.3:8546/",
+  "ethPrivateKey": "52948d9d4b55c9d02caba54ba3e2e96926fedb1a792c53ee010ad486688819e5",
+  "otc_base_url": "http://47.108.208.209:81",
+  "ali_endpoint": "oss-cn-hongkong.aliyuncs.com",
+  "ali_key_id": "LTAI4FuQs4D5evDYL1uR6UCT",
+  "ali_key_secret": "yotNyKCl2YLrOGvc7V5feY2WVQwH2b",
+  "ali_bucket": "winsor-kyc",
+  "mysql": {
+    "address": "rm-j6crdbrs1r7vo4p4z4o.mysql.rds.aliyuncs.com",
+    "port": 3306,
+    "dbName": "hl_wallet",
+    "user": "hlwallet",
+    "password": "AS9Jbrs1r7vo4p4z",
+    "maxConn": 500,
+    "maxIdle": 50
+  },
+  "redis": {
+    "address":"r-j6cmfqdc61ri0aiykjpd.redis.rds.aliyuncs.com:6379",
+    "password": "winsor!!!123",
+    "dbNum": 0,
+    "PoolSize": 3,
+    "MaxRetries": 3,
+    "IdleTimeout": 10
+  }
+}
