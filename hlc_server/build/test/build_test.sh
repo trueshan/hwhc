@@ -25,3 +25,5 @@ echo "build finish"
 
 #重启服务
 /bin/systemctl restart supervisord
+
+echo "deploy success"
