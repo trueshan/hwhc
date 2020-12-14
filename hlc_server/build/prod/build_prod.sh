@@ -7,7 +7,7 @@ bakdir=${GOPATH}"/src/github.com/hwhcrun" #备份文件夹
 #拉代码
 cd ${coderepo}
 echo "start pull code "
-git checkout master
+git checkout main
 git pull
 echo "pull code finish"
 
