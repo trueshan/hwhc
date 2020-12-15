@@ -10,17 +10,17 @@
   "ali_key_secret": "yotNyKCl2YLrOGvc7V5feY2WVQwH2b",
   "ali_bucket": "winsor-kyc",
   "mysql": {
-    "address": "rm-j6crdbrs1r7vo4p4z4o.mysql.rds.aliyuncs.com",
+    "address": "database-mysql-shopxx.cin2s4jw2d4q.ap-east-1.rds.amazonaws.com",
     "port": 3306,
     "dbName": "hl_wallet",
-    "user": "hlwallet",
-    "password": "AS9Jbrs1r7vo4p4z",
+    "user": "root",
+    "password": "vds6e!5f6*sv4e;lfg&hr",
     "maxConn": 500,
     "maxIdle": 50
   },
   "redis": {
-    "address":"r-j6cmfqdc61ri0aiykjpd.redis.rds.aliyuncs.com:6379",
-    "password": "winsor!!!123",
+    "address":"",
+    "password": "",
     "dbNum": 0,
     "PoolSize": 3,
     "MaxRetries": 3,

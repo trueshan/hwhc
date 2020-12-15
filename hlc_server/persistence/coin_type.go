@@ -156,7 +156,7 @@ func GetHLCPrice() (hlcPrice ,idrPrice ,vndPrice float64) {
 	if conf.GetConfig().Env == "test" {
 		url = "http://18.166.67.216:8080/call/back/getCoinList"
 	}else{
-		url = "http://www.vcrmall.com/call/back/getCoinList"
+		url = "http://api.magnipay.com/call/back/getCoinList"
 	}
 	resp, err := util.HttpGet(url)
 	if err != nil {
