@@ -6,8 +6,8 @@
   "ethPrivateKey": "52948d9d4b55c9d02caba54ba3e2e96926fedb1a792c53ee010ad486688819e5",
   "otc_base_url": "http://47.108.208.209:81",
   "ali_endpoint": "oss-cn-hongkong.aliyuncs.com",
-  "ali_key_id": "LTAI4FuQs4D5evDYL1uR6UCT",
-  "ali_key_secret": "yotNyKCl2YLrOGvc7V5feY2WVQwH2b",
+  "ali_key_id": "****",
+  "ali_key_secret": "****",
   "ali_bucket": "winsor-kyc",
   "mysql": {
     "address": "127.0.0.1",
